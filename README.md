@@ -2,26 +2,26 @@ Quick and relatively painless guide for programmer neophytes of all shapes and s
 setup a solid dev machine an OS X.
 
 ### TODO
-[x]format this doc to actual markdown
-[ ]don't just keep doing an outline, actually write shit.
-[ ]haskell and ghci. aw yeah.
-[ ]iTerm2
-[ ]ruby, rvm & bropages
+- [x] format this doc to actual markdown
+- [ ] don't just keep doing an outline, actually write shit.
+- [ ] haskell and ghci. aw yeah.
+- [ ] iTerm2
+- [ ] ruby, rvm & bropages
 - dotfiles
   - fix dotfiles install
-    [ ]remove os and pip install / drastically simplify
-  [x]remove auto folding from .vimrc
-  [x]fix coloring. ensure works for os x (iterm2 and terminal) and ubuntus default terminal.
-  [x]fix tmux
-[ ]tmux
-[ ]vagrant
-[ ]virtualbox?
-[ ]ssh keys
-  [ ]github
-  [ ]vbox
-[ ]terminal coloring scheme
-[ ]find better 256-color terminal test?
-[ ]add ubuntu
+    - [ ] remove os and pip install / drastically simplify
+  - [x] remove auto folding from .vimrc
+  - [x] fix coloring. ensure works for os x (iterm2 and terminal) and ubuntus default terminal.
+  - [x] fix tmux
+- [ ] tmux
+- [ ] vagrant
+- [ ] virtualbox?
+- [ ] ssh keys
+  - [ ] github
+  - [ ] vbox
+- [ ] terminal coloring scheme
+- [ ]find better 256-color terminal test?
+- [ ]add ubuntu
 
 ### Swap caps lock and esc
 osx: PC Keyboard Hack (https://pqrs.org/macosx/keyremap4macbook/pckeyboardhack.html) 
