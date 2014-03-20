@@ -1,39 +1,42 @@
-Quick and (hopefully) painless guide to setting up a solid dev machine an OS X.
+Quick and painless guide to setting up a solid dev machine an OS X.
+This is supposed to be the guide I wish I had when I was 16.
+Simple explanations will be given and links to further reading, or
+good methods for practicing (e.g. vim) will be provided.
 
 ## TODO
 ###### All
-:white_check_mark: format this doc to actual markdown
+~~format this doc to actual markdown~~
 
-:shit: don't just keep doing an outline, actually write shit.
+don't just keep doing an outline, actually write shit.
 
-:shit: haskell and ghci. aw yeah.
+haskell and ghci. aw yeah.
 
-:shit: iTerm2
+iTerm2
 
-:shit: ruby, rvm & bropages
+ruby, rvm & bropages
 
-:shit: tmux
+tmux
 
-:shit: vagrant
+vagrant
 
-:shit: virtualbox?
+virtualbox?
 
-:shit: ssh keys (github, vbox)
+ssh keys (github, vbox)
 
-:shit: terminal coloring scheme
+terminal coloring scheme
 
-:shit: find better 256-color terminal test?
+find better 256-color terminal test?
 
-:shit: add ubuntu
+add ubuntu
 
 ###### Dotfiles
-:shit: Fix dotfiles install
+Fix dotfiles install
 
-:white_check_mark: remove auto folding from .vimrc
+- ~~remove auto folding from .vimrc~~
 
-:white_check_mark: fix coloring. ensure works for os x (iterm2 and terminal) and ubuntus default terminal.
+- ~~fix coloring. ensure works for os x (iterm2 and terminal) and ubuntus default terminal.~~
 
-:white_check_mark: fix tmux
+- ~~fix tmux~~
 
 ## Swap Caps Lock & Esc
 [PC Keyboard Hack](https://pqrs.org/macosx/keyremap4macbook/pckeyboardhack.html) 
