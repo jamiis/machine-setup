@@ -131,6 +131,12 @@ use the system's default vim
 
 [Git Tips & Tricks](http://git-scm.com/book/en/Git-Basics-Tips-and-Tricks)
 
+#### Command Line Tools
+`brew install <cool-thing>`
+
+Cool things include: htop, TODO add moar
+
+
 ## Dotfiles 
 
 #### iTerm (iTerm and 256 colors n shit)
