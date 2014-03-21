@@ -29,6 +29,12 @@ find better 256-color terminal test?
 
 add ubuntu
 
+NPM and javascript
+
+hmmmm ... me thinks this is getting very big. things like haskell, python,
+and js/npm should be breezed over. explain what they are, how to install,
+general caveats, and good resources for learning.
+
 ###### Dotfiles
 Fix dotfiles install
 
@@ -51,6 +57,8 @@ system software will still access system defaults in /usr/bin/, and the last thi
 should do is change permissions of system installed software.  explain how some people 
 prefer to (only) use virtualenv or vagrant to manage their software rather 
 than messying up their local env -- I find this ill suited for quick exploration.
+
+You can search homebrew formulae at [braumeister.org](http://braumeister.org/).
 
 NOTE: /usr/local/bin/ by default comes after /usr/bin/ in $PATH. I fix this in my dotfiles described
 below. Before running any of the installed packages below, make sure to set /usr/local/bin/ to come 
@@ -131,10 +139,10 @@ use the system's default vim
 
 [Git Tips & Tricks](http://git-scm.com/book/en/Git-Basics-Tips-and-Tricks)
 
-#### Command Line Tools
+#### Good Things
 `brew install <cool-thing>`
 
-Cool things include: htop, TODO add moar
+Cool things include: htop, markdown, tig, TODO add moar
 
 
 ## Dotfiles 
