@@ -21,6 +21,8 @@ vagrant
 
 virtualbox?
 
+latex? add a section for extras maybe?
+
 ssh keys (github, vbox)
 
 terminal coloring scheme
