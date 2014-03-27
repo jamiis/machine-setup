@@ -141,6 +141,9 @@ use the system's default vim
 
 [Git Tips & Tricks](http://git-scm.com/book/en/Git-Basics-Tips-and-Tricks)
 
+#### R
+http://davidsimpson.me/2013/02/26/installing-r-on-os-x/
+
 #### Good Things
 `brew install <cool-thing>`
 
