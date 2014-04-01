@@ -147,7 +147,7 @@ http://davidsimpson.me/2013/02/26/installing-r-on-os-x/
 #### Good Things
 `brew install <cool-thing>`
 
-Cool things include: htop, markdown, tig, TODO add moar
+Cool things include: htop, tree, wget, markdown, tig, TODO add moar
 
 
 ## Dotfiles 
