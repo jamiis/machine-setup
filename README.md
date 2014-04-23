@@ -89,6 +89,7 @@ TODO comment on --user and how pip is installed as user, not as superuser.
 virtualenv, ipython, matplotlib, scipy, numpy, pandas
 
 link to homepages and good tutorials
+http://penandpants.com/2012/02/24/install-python/
 
 #### Vim
 
